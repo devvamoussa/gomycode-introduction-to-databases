@@ -1,0 +1,22 @@
+
+                        I-PRÉSENTATION DE CHACUN DES SGBDR ET LEURS FONCTIONNALITÉS
+
+D'abord c’est quoi un SGBDR : c’est Un système de gestion de base de données. (SGBD) est un logiciel système servant à stocker, à manipuler ou gérer, et à partager des données dans une base de données, en garantissant la qualité, la pérennité et la confidentialité des informations, tout en cachant la complexité des opérations. 
+Ensuite nous avons différents types de SGBDR qui sont :
+-MYSQL
+-ProstgreSQL
+-SQL Server
+- etc…
+
+  1. My SQL : est un serveur de base de données relationnelles SQL développé dans un souci de performances élevées en lecture ce qui signifie qu’il est davantage orienté vers le service de données déjà en place que vers celui de mises à jour fréquentes et fortement sécurisées. Il est multi-thread et multi-utilisateur.
+
+  2. ProstgreSQL :est un système de gestion de base de données relationnelle orienté objet puissant et open source qui est capable de prendre en charge en toute sécurité les charges de travail de données les plus complexes.
+
+  3. SQL Server :est un outil qui possède toutes les caractéristiques pour pouvoir accompagner l'utilisateur dans la manipulation, le contrôle, le trie, la mise à jour, et bien d’autres actions encore, de base de données grâce au langage SQL.
+ 
+           II-COMPARONS LES TROIS SGBDR (MySQL, ProstgreSQL, SQL Server)
+
+SQLServer : c'est un SGBD très puissant, robuste avec une interface ergonomique et facile À utiliser,sa capacité de stockage des données est aussi importante mais un grand problème avec SQL Server est dédié aux entreprises utilisant le Système d'exploitation Windows seulement 
+tandis que
+MySQL : c'est le plus populaire au monde avec sa vitesse supérieure, sa fiabilité et facilité d'utilisation, son point fort est d'être gratuit et peut être utilisé même par les débutants au domaine.
+et ProstgreSQL: lui il est utilisé en raison de sa fiabilité, l'intégrité de ses données, la robustesse de ses fonctionnalités, et parce qu'il fournit des solutions toujours performantes et innovantes. PostgreSQL fonctionne sur tous les principaux systemes d’exploitation et est conforme a ACID depuis 2001  
